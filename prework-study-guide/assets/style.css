@@ -1,21 +1,13 @@
 *{margin: 0; padding: 0;}
 header,footer
-<<<<<<< HEAD
-{width: 100%; height: 150px;
-     background-color: red; color: white;}
-     h1,h2{text-align: center;}
-
-img{display: block;height: 70px;width: 70px;
-=======
 {width: 100%; height: 120px;
      background-color: red; color: white;}
      h1,h2{text-align: center;}
 
 img{display: block;height: 50px;width: 50px;
->>>>>>> eb24cb2ff96a38e0701c7b872e262dd4a9f94fb5
     margin-left: auto;margin-right: auto;}
     ul{padding-left: 40px;font-size: 20px;}
     p{text-align: center;font-size: 30px;}
     
 .card{width:80%;margin: 40px;
-border: 5px solid green;box-shadow:  5px 10px grey;}
+border: 5px solid green;box-shadow:  5px 10px grey;}*%
